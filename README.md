@@ -1,4 +1,4 @@
-# Quizzler - Flutter
+# Quizzler :memo: Flutter
 
 A quiz app meant to challenge the knowledge of the user. App resets after user runs through all 15 questions.
 
